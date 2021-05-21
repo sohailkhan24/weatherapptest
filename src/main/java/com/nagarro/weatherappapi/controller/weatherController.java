@@ -9,7 +9,7 @@ public class weatherController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String test() {
-		return "Hello World";
+		return "Hello World hello";
 	}
 
 
