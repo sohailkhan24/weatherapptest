@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT target/weatherappapi-0.0.1-SNAPSHAOT.war
